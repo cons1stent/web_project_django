@@ -1,0 +1,1 @@
+web: gunicorn dashboards.wsgi --log-level=info --log-file -
